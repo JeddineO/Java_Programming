@@ -25,7 +25,3 @@ You can return the answer in any order.
 -109 <= nums[i] <= 109
 -109 <= target <= 109
 Only one valid answer exists.
-<<<<<<<< HEAD:TwoSum/README.md
-```
-========
->>>>>>>> 40c4a602104309b9335e1a57b2910e80b88d8a60:TwoSum/Decription.md
